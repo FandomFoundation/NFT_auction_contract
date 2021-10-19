@@ -1,0 +1,20 @@
+{
+  "name": "NFT_auction_contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "openzeppelin-test-helpers": "^0.5.1"
+  },
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.9",
+    "@truffle/hdwallet-provider": "^1.2.6",
+    "babel-preset-latest": "^6.24.1",
+    "ganache-cli": "^6.12.2"
+  },
+  "license": "ISC"
+}

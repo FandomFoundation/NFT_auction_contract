@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82f305b9-336f-46b1-a18f-2ef1092f6fdc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zjL0czLIn0U8kSqpiWSLBxNRhp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82f305b9-336f-46b1-a18f-2ef1092f6fdc" name="Default Changelist" comment="" />
+      <created>1634656328537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634656328537</updated>
+      <workItem from="1634656329582" duration="640000" />
+      <workItem from="1634664005185" duration="7000" />
+      <workItem from="1634673667911" duration="517000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="5440" y="545" key="Github.ShareDialog" timestamp="1634674039363">
+      <screen x="4352" y="-29" width="2483" height="1415" />
+    </state>
+    <state x="5440" y="545" key="Github.ShareDialog/1792.25.2560.1055/4352.-29.2483.1415/0.25.1792.1095@4352.-29.2483.1415" timestamp="1634674039363" />
+    <state x="2914" y="453" key="Github.ShareDialog/1792.25.2560.1055/4352.-29.2493.1415/0.25.1792.1095@1792.25.2560.1055" timestamp="1634656420540" />
+    <state x="5292" y="433" width="602" height="490" key="find.popup" timestamp="1634673771023">
+      <screen x="4352" y="-29" width="2483" height="1415" />
+    </state>
+    <state x="5292" y="433" width="602" height="490" key="find.popup/1792.25.2560.1055/4352.-29.2483.1415/0.25.1792.1095@4352.-29.2483.1415" timestamp="1634673771023" />
+  </component>
+</project>
